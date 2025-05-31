@@ -1,7 +1,7 @@
 # LLM-Based Vulnerability Detection in Tokenized Assembly: 
 A Case Study on CWE-457 (Use of Uninitialized Variable).
 <br>
-Presentation discussing approach, methodology, and results can be found [here](https://youtu.be/3k3uCzpEjzs).
+Presentation discussing approach, methodology, and results can be found [here](https://youtu.be/N6KSaptGfOk).
 
 > ⚠️*Note:*⚠️ <br>
 > This repository represents Phase 2 of a multi-stage research project and will likely serve as the foundation for my future dissertation work. 
