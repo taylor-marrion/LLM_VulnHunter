@@ -1,3 +1,5 @@
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 # LLM-Based Vulnerability Detection in Tokenized Assembly: 
 A Case Study on CWE-457 (Use of Uninitialized Variable).
 <br>
@@ -98,4 +100,7 @@ Once dependencies are installed:
 - [Hugging Face Transformers](https://huggingface.co/models)
 
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+## 📄 License
+
+This project is licensed under the [Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+You may view, share, or cite this work with attribution. Commercial use, redistribution, or modification is not permitted.
